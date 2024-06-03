@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+body {
+  background-color: #292929;
+  font-family: 'Roboto', sans-serif;
+  color: #FAFAFA;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-weight: 300;
+  color: #FAFAFA;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-weight: 300;
+  color: #FAFAFA;
+  margin-bottom: 1rem;
+}
+
+.custom-nav-link {
+  font-size: 1rem;
+  color: #FAFAFA !important;
+  text-decoration: none !important;
+  margin: 0 0.5rem !important;
+  font-weight: 300;
+  transition: color 0.3s ease-in-out;
+}
+
+.custom-nav-link:hover {
+  color: #686868 !important;
+}
+
+button, .btn {
+  font-weight: 300;
+  font-size: 1rem;
+}
+
+.alert {
+  font-weight: 300;
+}
+
+.form-label {
+  font-weight: 300;
+}
+
+.form-control {
+  font-weight: 300;
+}
